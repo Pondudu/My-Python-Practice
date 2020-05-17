@@ -6,9 +6,7 @@
 |分類會員列表|X||
 |判斷整數次方|X||
 |判斷重複字元|X||
-|判斷浮點數|[Detect Floating Point Number
-
-](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|
+|判斷浮點數|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|
 
 
 
